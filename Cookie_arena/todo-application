@@ -3,6 +3,10 @@ Link: https://battle.cookiearena.org/challenges/web/todo-application
 
 
 code:
+
+<? phpinfo();?>
+
+code:
 ```
 <html>
 <body>
